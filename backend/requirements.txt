@@ -1,0 +1,1 @@
+txt<br>fastapi==0.110.0<br>uvicorn[standard]==0.29.0<br>yt-dlp==2024.8.6<br>openai-whisper==20231117<br>torch==2.3.0<br>opencv-python==4.9.0.80<br>ffmpeg-python==0.2.0<br>python-multipart==0.0.9<br>
